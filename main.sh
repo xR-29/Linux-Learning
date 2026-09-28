@@ -108,6 +108,7 @@ do
         ;;
     0)
         echo "退出程序。"
+        echo "Backup module ready."
         exit 0
         ;;
     *)
