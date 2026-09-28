@@ -3,7 +3,7 @@ menu() {
 echo "
     ====================
     Linux 系统管理工具
-    Linux Admin Tool
+    Linux Admin Tool - master
     version 1.0
     ====================
     1.查看系统信息
