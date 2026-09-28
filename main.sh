@@ -3,7 +3,7 @@ menu() {
 echo "
     ====================
     Linux 系统管理工具
-    Linux Admin Tool
+    Linux Admin Tool - feature/backup
     ====================
     1.查看系统信息
     2.查看系统资源
